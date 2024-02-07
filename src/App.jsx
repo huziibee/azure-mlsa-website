@@ -25,7 +25,7 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Mohammed Bangie",
-  title: "Student ambassador @ Microsoft, AWS & Intel ",
+  title: "Student ambassador @ Microsoft, AWS & Intel",
   email: "mhbangie@gmail.com",
   gitHub: "https://github.com/huziibee",
   instagram: "",
