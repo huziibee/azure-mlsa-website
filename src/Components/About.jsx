@@ -16,15 +16,15 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "../images/motion-background.jpg";
+import image from "../images/rock-8196075_640.webp";
 
-const imageAltText = "purple and blue abstract background";
+const imageAltText = "scenery of rocks and water with clear blue sky";
 
 /**
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I am a passionate student from South Africa currently enrolled in the Microsoft Learn Student Ambassadorship program at the University of the Witwatersrand. My career goals revolve around leveraging technology to create positive change in my community.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "As a student ambassador, I am committed to empowering others with the knowledge and skills needed to excel in the digital world. I believe in the transformative power of technology to address societal challenges and enhance people's lives. Whether it's through organizing workshops, mentoring, or advocating for inclusive tech education, I am dedicated to making a difference. \nInspired by the words of Nelson Mandela, \"Education is the most powerful weapon which you can use to change the world,\" I strive to be an advocate for accessible and equitable education, particularly in STEM fields. I am excited about the opportunities that lie ahead and eager to contribute to a brighter future through technology and education. ";
 
 const About = () => {
   return (
